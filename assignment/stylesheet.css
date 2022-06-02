@@ -1,0 +1,13 @@
+.background{
+    background-image: url("record.png");
+    background-color: lightgray;
+    background-repeat: repeat;
+}
+.dark{
+    color:whitesmoke;
+    background-color:darkslateblue;
+    text-align: center;
+}
+.light{
+    background-color: lightgray;
+}
